@@ -203,7 +203,3 @@ Potential future improvements include:
 - **Performance Optimization**: Implement request queuing and backpressure mechanisms
 - **Testing**: Add comprehensive unit and integration tests
 - **Documentation**: Add API documentation with OpenAPI/Swagger
-
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
